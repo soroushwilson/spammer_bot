@@ -1,6 +1,4 @@
-# [Dev by MrBlackLife](https://telegram.me/Mrblacklife)
-
-* [chanell ekhtesasi](https://telegram.me/make_a_robot)
+# [Dev by soroushwilson]
 
 *baraye nasb shodan git rooye botetoon too terminal mitoonid az code haye zir estefade konid*
 
@@ -10,9 +8,9 @@
 
 *sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev*
 
-*git clone https://github.com/3pehrdev/spammer-bot*
+*git clone https://github.com/3pehrdev/spammer_bot*
 
-*cd spammer-bot*
+*cd spammer_bot*
 
 *./launch.sh install*
 
@@ -21,7 +19,7 @@
 yadetoon nare ghabl az avalin launch idi khodetoon ro dakhel seedbot.lua baraye sudo shodan gharar bedid
 
 movafagh va sarboland bashid :)
-# [Danger](telegram.me/joker_admin_1)
+# [soroush]
 
 hatman ghabl launch plugine (autoaddersudo) ro check konid
 
